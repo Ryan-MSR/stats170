@@ -2,6 +2,6 @@
 
 
 ## dataset:
- NUYmenu
- yelp_dataset
+ NUYmenu \
+ yelp_dataset \
  Yummly28K
